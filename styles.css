@@ -1,0 +1,40 @@
+* {
+  background-color: lawngreen;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+   background-color: rgb(200, 0, 255);
+  color: rgb(0, 255, 255);
+}
+
+h2 {
+  background-color: coral;
+  color: hotpink;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.gif {
+  border: 20px solid aqua;
+}
+
+.textblock {
+  position: relative;
+  background-color: #1111118d;
+  color: #f2f2f2;
+  padding: 10px 20px;
+  bottom: 20px;
+  right: 20px;
+}
+
+li {
+  background-color: aquamarine;
+  color: hotpink;
+  font-weight: 900;
+  font-size: 50px;
+}
+
+.picture {
+  border: 15px dashed hotpink;
+}
